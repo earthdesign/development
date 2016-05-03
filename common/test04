@@ -1,9 +1,6 @@
 test04
 git config --global user.email "earth.designhi@gmail.com"
 git config --global user.name "earthdesign"
-<<<<<<< HEAD
-=======
 git config --global user.name "earthdesign"
 git config --global user.name "earthdesign"
 git config --global user.name "earthdesign"
->>>>>>> 10c55ed5a395f0d8dd5f69c4a59294f12f16fa66
